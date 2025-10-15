@@ -1,3 +1,5 @@
+server:
+  port: 8082
 jobs:
   message: "Welcome to EazyBank jobs related PROD APIs "
   contactDetails:
