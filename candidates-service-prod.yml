@@ -1,0 +1,8 @@
+candidates:
+  message: "Welcome to EazyBank candidates related PROD APIs "
+  contactDetails:
+    name: "John Doe - PROD"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
