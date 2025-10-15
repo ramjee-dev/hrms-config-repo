@@ -1,0 +1,8 @@
+jobs:
+  message: "Welcome to EazyBank jobs related PROD APIs "
+  contactDetails:
+    name: "John Doe - PROD"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
