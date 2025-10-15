@@ -1,0 +1,10 @@
+clients:
+  message: "Welcome to EazyBank Clients related DEV APIs "
+  contactDetails:
+    name: "John Doe - DEV"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
+
+    
